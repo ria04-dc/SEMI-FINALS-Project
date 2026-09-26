@@ -22,25 +22,25 @@ Features:
 System Features:
 
 1. Main Dashboard
-   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/ea6388dd-9e66-4761-8008-7dd7ad320dfd" />
+   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/016bb5d4-3a4c-470a-94be-91e8a1b0b2af" />
 
 2. Add Task
-   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/b90feede-47a9-4fe7-80e4-bd953166c540" />
+   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/5e09ba03-4b42-433c-be2d-268e407d04e7" />
 
 3. View Task
-   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/c5bb9c5c-6ab6-4c7e-b248-0002c5e01a8a" />
+   <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/7d4132c9-6787-46f4-890b-55def411451a" />
 
 4. Edit Task
-   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/a3e93b1d-a53c-4366-b8f0-5a6d82c53a6c" />
+   <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/be267d23-b997-43b6-8ea9-d06eac4dab6d" />
 
 5. Update status
-   <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/ef9cca73-b17a-43db-b8c1-0d10461fba48" />
+   <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/b83cbfc1-deb0-4df0-a9b0-4790f5457d09" />
   
 6. Search Bar
-   <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/d916eec2-d6de-4f90-b4e8-1078764fbc88" />
+   <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/fa9e2b45-9fb5-45c3-91f4-ef9cc917d84d" />
 
 8. Trash Bin
-   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/3fc0380e-2dd2-4f91-9eda-41bcb747ae7e" />
+   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/b08f7fa9-0278-4283-a336-70e76a2c8c4c" />
 
 
 
