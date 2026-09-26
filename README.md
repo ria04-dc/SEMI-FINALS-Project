@@ -4,7 +4,7 @@ A simple Laravel website to manage daily tasks, track priorities, and stay organ
 
 Project Code: WST21-PM-2026-SF
 
-Student Name: Ma Angel A. Navares
+Student Name: Navares, Ma Angel A.
 
 Course & Year: BSIT - 2nd Year
 
