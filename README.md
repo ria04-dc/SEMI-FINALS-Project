@@ -17,11 +17,12 @@ Features:
 * Edit Task
 * Delete Task
 * Update Status
+* Trash Bin
 
 System Features:
 
 1. Main Dashboard
-   <img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/e8767556-4afb-4f44-8d70-a16f7675d9b9" />
+   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/ea6388dd-9e66-4761-8008-7dd7ad320dfd" />
 
 2. Add Task
    <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/b90feede-47a9-4fe7-80e4-bd953166c540" />
@@ -32,8 +33,14 @@ System Features:
 4. Edit Task
    <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/a3e93b1d-a53c-4366-b8f0-5a6d82c53a6c" />
 
-5. Search Bar
-   <img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/a90c234a-f917-434c-9fbe-8cab64041b7a" />
+5. Update status
+   <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/ef9cca73-b17a-43db-b8c1-0d10461fba48" />
+  
+6. Search Bar
+   <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/d916eec2-d6de-4f90-b4e8-1078764fbc88" />
+
+8. Trash Bin
+   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/3fc0380e-2dd2-4f91-9eda-41bcb747ae7e" />
 
 
 
