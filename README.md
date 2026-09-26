@@ -18,7 +18,7 @@ Features:
 * Delete Task
 * Update Status
 
-System 
+System Features:
 
 1. Main Dashboard
    <img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/e8767556-4afb-4f44-8d70-a16f7675d9b9" />
