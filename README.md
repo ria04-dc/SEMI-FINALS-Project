@@ -1,35 +1,28 @@
-# 📋 Personal Task Manager
+# Personal Task Manager
 
-A clean, responsive Personal Task Manager web application built with **Laravel**, **Blade**, and **SQLite**. Designed with custom CSS styling and a card/table dashboard layout for seamless task management.
+A simple Laravel website to manage daily tasks, track priorities, and stay organized.
 
----
+Project Code: WST21-PM-2026-SF
+Student Name: [Navares, Ma Angel]
+Course & Year: BSIT - 2nd Year
+Database Used: SQLite
 
-## ✨ Features
+Features:
 
-- **Dashboard View:** Displays overall task statistics (Total, Pending, and Completed) alongside an organized data table.
-- **Add Task:** Form to record new tasks with a name, description, status, and due date.
-- **Edit Task:** Modify existing task details anytime.
-- **Status Toggle:** Quick status switching between `Pending` and `Completed`.
-- **Delete Task:** Remove tasks with an interactive confirmation prompt.
-- **Live Search Filter:** Instant client-side search bar to filter tasks on the dashboard.
+* Add Task
+* View Tasks
+* Edit Task
+* Delete Task
+* Update Status
 
----
+System 
 
-## 🛠️ Tech Stack & Requirements
+1. Main Dashboard
+   <img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/e8767556-4afb-4f44-8d70-a16f7675d9b9" />
 
-- **Framework:** Laravel 11
-- **Language:** PHP 8.x
-- **Database:** SQLite
-- **Templating Engine:** Blade Views
-- **Frontend:** HTML5, Embedded CSS, Vanilla JavaScript
+2. Creat New task
+   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/b90feede-47a9-4fe7-80e4-bd953166c540" />
 
----
+3. After Task is added
+   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/02264be6-ece8-4d58-8940-82babde9ef0e" />
 
-## 🚀 Getting Started (GitHub Codespaces / Local Setup)
-
-Follow these steps to run the project locally or inside GitHub Codespaces:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/ria04-dc/SEMI-FINALS-Project.git](https://github.com/ria04-dc/SEMI-FINALS-Project.git)
-cd SEMI-FINALS-Project/laravel
