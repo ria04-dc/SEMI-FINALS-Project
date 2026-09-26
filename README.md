@@ -27,5 +27,15 @@ System
    <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/b90feede-47a9-4fe7-80e4-bd953166c540" />
 
 3. After Task is added
-   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/02264be6-ece8-4d58-8940-82babde9ef0e" />
+   <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/c5bb9c5c-6ab6-4c7e-b248-0002c5e01a8a" />
+
+4. Edit Layout
+   <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/a3e93b1d-a53c-4366-b8f0-5a6d82c53a6c" />
+
+5. Search Bar
+   <img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/a90c234a-f917-434c-9fbe-8cab64041b7a" />
+
+
+
+
 
